@@ -16,6 +16,7 @@ h1 {
 
 h2 {
   font-family: "Young Serif", serif;
+  font-weight: 400;
   color: hsl(14, 45%, 36%);
 }
 
@@ -77,6 +78,7 @@ tr:last-child td {
 .prep-time > p {
   color: hsl(332, 51%, 32%);
   font-weight: 800;
+  font-size: 1.125rem;
 }
 
 .prep-time > ul > li > span {
@@ -86,4 +88,8 @@ tr:last-child td {
 li::marker {
   color: hsl(332, 51%, 32%);
   font-weight: 600;
+}
+
+.instructions > li > span {
+  color: hsl(30, 10%, 34%);
 }

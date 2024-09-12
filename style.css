@@ -57,7 +57,7 @@ tr:last-child td {
   justify-content: center;
   align-items: center;
   max-width: 730.28px;
-  margin: 80px 0px;
+  margin: 100px 0px;
 }
 
 .card {
@@ -68,6 +68,7 @@ tr:last-child td {
 
 .prep-time {
   background-color: hsl(330, 100%, 98%);
+  margin: 30px 0px;
   padding: 10px 20px;
   border-radius: 10px;
   color: hsl(24, 5%, 18%);
